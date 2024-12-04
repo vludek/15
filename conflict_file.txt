@@ -1,2 +1,4 @@
 Це файл для конфлікту (master)
-Це зміни у файлі з гілки master
+<<<<<<< HEAD
+Цe Зміни з master і branchPetrov1
+>>>>>>> branchIvanytski1
